@@ -1,0 +1,26 @@
+4. Şifreyi Kontrol Etmek İçin re.search() Kullanımı
+python
+Kopyala
+Düzenle
+if (re.search(r'[A-Z]', password) and  # En az bir büyük harf
+    re.search(r'[a-z]', password) and  # En az bir küçük harf
+    re.search(r'[\W_]', password)):    # En az bir özel karakter (alfanümerik olmayan)
+re.search(pattern, string): Belirli bir deseni (pattern) string içinde arar. Eğer bulursa True, bulamazsa None döndürür.
+
+re.search(r'[A-Z]', password)
+
+r'[A-Z]' ifadesi, şifre içinde en az bir büyük harf olup olmadığını kontrol eder.
+[A-Z] → A ile Z arasındaki herhangi bir harf olabilir.
+re.search(r'[a-z]', password)
+
+r'[a-z]' ifadesi, şifre içinde en az bir küçük harf olup olmadığını kontrol eder.
+[a-z] → a ile z arasındaki herhangi bir harf olabilir.
+re.search(r'[\W_]', password)
+
+r'[\W_]' ifadesi, şifre içinde en az bir özel karakter olup olmadığını kontrol eder.
+\W → Alfanümerik olmayan tüm karakterler (@, #, $, %, & gibi özel karakterler).
+_ (alt tire) de özel karakter olarak kabul edilir.
+Eğer bu üç koşul da sağlanıyorsa, şifre doğru kabul edilir.
+
+
+      KULLANICI BİLGİ SİSTEMİ ÖRNEĞİNDE MEVCUT
