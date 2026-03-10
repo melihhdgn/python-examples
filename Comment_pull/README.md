@@ -9,8 +9,6 @@ Bu proje, iOS ve Android uygulamalarının kullanıcı yorumlarını çekmek iç
 ## 📂 Dosya
 
 - `comment_pull.py` : iOS ve Android yorumlarını çeken ana Python dosyası.
-- `sarj_firma_yorumlari_karisik.xlsx` : Örnek çıktı (çalıştırdığınızda oluşur).
-
 ---
 
 ## ⚙️ Kurulum
@@ -74,7 +72,6 @@ Note: This script is not tied to any specific industry. You can use it to collec
 
 comment_pull.py : Main Python script that fetches iOS and Android reviews.
 
-sarj_firma_yorumlari_karisik.xlsx : Example output file (generated after running the script).
 
 ⚙️ Installation
 
