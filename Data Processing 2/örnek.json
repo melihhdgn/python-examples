@@ -1,0 +1,4785 @@
+[
+    {
+        "çeşit": "Gülsuyulu Reçel",
+        "yapan": "Usta Ayşe",
+        "yer": "İzmir",
+        "fiyat": {
+            "24": null,
+            "25": 21.13,
+            "26": 32.49
+        }
+    },
+    {
+        "çeşit": "Kek",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": null,
+            "25": 20.84,
+            "26": 39.64
+        }
+    },
+    {
+        "çeşit": "Laleli Pasta",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 200,
+            "26": 300
+        }
+    },
+    {
+        "çeşit": "Gülsuyulu Reçel",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 20.04,
+            "25": 28.31,
+            "26": 32.45
+        }
+    },
+    {
+        "çeşit": "Laleli Pasta",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 31.22,
+            "25": 0,
+            "26": 28.31
+        }
+    },
+    {
+        "çeşit": "Gülsuyulu Reçel",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 30.85,
+            "25": 27.01,
+            "26": 27.41
+        }
+    },
+    {
+        "çeşit": "Gülsuyulu Reçel",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 32.13,
+            "25": 35.31,
+            "26": 25.2
+        }
+    },
+    {
+        "çeşit": "Laleli Pasta",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 27.75,
+            "25": 21.47,
+            "26": 22.32
+        }
+    },
+    {
+        "çeşit": "Gülsuyulu Reçel",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 35.2,
+            "25": 30.86
+        }
+    },
+    {
+        "çeşit": "Gülsuyulu Reçel",
+        "yapan": "Usta Ali",
+        "yer": "Ankara",
+        "fiyat": {
+            "24": 12.1,
+            "25": 31.43,
+            "26": 36.89
+        }
+    },
+    {
+        "çeşit": "Kek",
+        "yapan": null,
+        "yer": "Adana",
+        "fiyat": {
+            "25": 26.74,
+            "26": 21.14
+        }
+    },
+    {
+        "çeşit": "Kek",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "25": 25.08,
+            "26": 22.11
+        }
+    },
+    {
+        "çeşit": "££>#£>",
+        "yapan": "Usta Zeynep",
+        "fiyat": {
+            "24": 26.3,
+            "25": 29.57,
+            "26": 21.72
+        }
+    },
+    {
+        "çeşit": "Kek",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 21.49,
+            "25": 21.15,
+            "26": 28.03
+        }
+    },
+    {
+        "çeşit": "Kek",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 24.09,
+            "25": 33.5,
+            "26": 22.23
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 20.39,
+            "26": 35.07
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 29.62
+        }
+    },
+    {
+        "çeşit": null,
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 28.68,
+            "25": 29.38,
+            "26": 25.82
+        }
+    },
+    {
+        "çeşit": "#£>#£>",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 32.63,
+            "26": 28.84
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 25.74,
+            "25": 23.05,
+            "26": 24.6
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 26.98,
+            "25": 27.28,
+            "26": 36.1
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 30.79,
+            "26": 29.32
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 21.65,
+            "25": 34.82,
+            "26": 29.58
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 35.11,
+            "25": 20.23,
+            "26": 21.65
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 32.52,
+            "25": 39.67,
+            "26": 31.16
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ayşe",
+        "yer": "Berlin",
+        "fiyat": {
+            "24": null,
+            "25": 1,
+            "26": 30.35
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 36.53,
+            "26": 28.73
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Berlin",
+        "fiyat": {
+            "24": 24.09,
+            "25": 1,
+            "26": 34.08
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 39.56,
+            "25": 26.64
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 28.13,
+            "25": 22.3,
+            "26": 32.86
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 36.17,
+            "25": 38.37
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 34.92,
+            "26": 28.35
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 27.76,
+            "25": 39.86
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 27.85,
+            "25": 36.53,
+            "26": 1
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 38.84,
+            "25": 26.14,
+            "26": 22.19
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": null,
+            "25": 37.61,
+            "26": 26.18
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 26.95,
+            "25": 32.41,
+            "26": 26.46
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "25": 28.45,
+            "26": 23.23
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 23.13
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yer": "Elazığ",
+        "fiyat": {
+            "25": 23.63,
+            "26": 31.63
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 30.97,
+            "25": 22.76,
+            "26": 26.26
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 33.01,
+            "25": 0
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 22.35,
+            "25": 37.93,
+            "26": 34.54
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 36.57,
+            "25": 36.45,
+            "26": 29.2
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 39.56,
+            "25": 30.69,
+            "26": 28.34
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 20.51,
+            "25": null,
+            "26": 20.85
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "26": 36.96
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 25.34,
+            "25": 200,
+            "26": 34.54
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 23.96,
+            "25": 24.85,
+            "26": 36.41
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 39.31,
+            "25": 24.79,
+            "26": 20.61
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 21.1,
+            "25": 26.98,
+            "26": 200
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 26.24,
+            "25": 30.94
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 35.02,
+            "25": 36.49,
+            "26": 39.18
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 30.31,
+            "25": 31.28,
+            "26": 1
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Murat",
+        "yer": "İstanbul",
+        "fiyat": {
+            "24": 36.02,
+            "25": 20.48,
+            "26": null
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 35.44
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 26.91,
+            "25": 23.73
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 39.73,
+            "25": 20.88,
+            "26": 38.39
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 25.15,
+            "25": 32.4,
+            "26": 36.06
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 39.49,
+            "25": 29.32,
+            "26": 25.54
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 34.61,
+            "25": 1,
+            "26": 36.9
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 21.66,
+            "25": 31.77,
+            "26": 27.81
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 35.31,
+            "25": 30.02,
+            "26": 33.94
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 22.42,
+            "25": 31.68,
+            "26": 34.78
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 1,
+            "25": 23.08,
+            "26": 34.36
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yer": "Adana",
+        "fiyat": {
+            "25": 22.93,
+            "26": 20.59
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "25": 30.87,
+            "26": 31.87
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 35.86
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 27.2,
+            "25": 21.27,
+            "26": 39.66
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 23.68,
+            "26": 35.05
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 38.7,
+            "25": 39.15,
+            "26": 30.71
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 33.17,
+            "25": 38.44,
+            "26": 23.43
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 36.31,
+            "25": 37.82,
+            "26": 38.0
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "25": 200,
+            "26": 28.23
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 1,
+            "26": 26.13
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 35.77,
+            "25": 27.35,
+            "26": 36.38
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 34.83,
+            "25": 32.32,
+            "26": 20.36
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 34.0,
+            "25": 31.43,
+            "26": 30.27
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Mehmet",
+        "fiyat": {
+            "24": 21.63,
+            "25": 20.73,
+            "26": 24.86
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 27.47,
+            "25": 24.09,
+            "26": 23.85
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 36.45,
+            "26": 30.85
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 36.29,
+            "25": 20.97,
+            "26": 35.52
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 24.59,
+            "25": 28.04,
+            "26": 23.18
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 28.61,
+            "25": 24.01,
+            "26": 28.3
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 1,
+            "25": 35.62,
+            "26": 30.74
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 23.21,
+            "25": 35.44,
+            "26": 39.35
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Murat",
+        "yer": "İstanbul",
+        "fiyat": {
+            "24": 38.43,
+            "25": 28.98,
+            "26": 24.99
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "yer": "Rize",
+        "fiyat": {
+            "24": 28.96,
+            "25": 25.9,
+            "26": 37.22
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Rize",
+        "fiyat": {
+            "25": 25.28,
+            "26": 28.96
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 26.79,
+            "26": 20.68
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 29.32,
+            "26": 25.62
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "İzmir",
+        "fiyat": {
+            "24": 37.17,
+            "25": 21.72,
+            "26": 28.11
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 23.2,
+            "25": 20.62,
+            "26": 25.92
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 25.59,
+            "25": 20.43,
+            "26": 24.18
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 39.46,
+            "25": 30.09,
+            "26": 36.4
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 27.05,
+            "25": 38.93,
+            "26": 32.07
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 20.23,
+            "25": 39.58
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 27.93,
+            "25": 27.44,
+            "26": 23.91
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 34.74,
+            "26": 38.86
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 34.26,
+            "25": 34.35,
+            "26": 33.43
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 22.06,
+            "25": 30.99,
+            "26": 20.67
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 36.5,
+            "25": 28.6,
+            "26": 21.17
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 39.15,
+            "25": 39.7,
+            "26": 36.41
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 21.33,
+            "25": 200,
+            "26": 29.63
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 22.75,
+            "25": 21.99,
+            "26": 35.62
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 23.84,
+            "25": 35.11,
+            "26": 23.2
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 300,
+            "25": 24.93,
+            "26": 25.71
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 26.63,
+            "25": 38.57,
+            "26": 25.25
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 32.33,
+            "25": 31.62,
+            "26": 26.05
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 38.42,
+            "25": 32.49,
+            "26": 20.25
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 32.33,
+            "25": 22.54,
+            "26": 28.21
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "26": 1
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 39.16,
+            "25": 300
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 36.75,
+            "25": 29.24,
+            "26": 34.71
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 300,
+            "25": 39.72,
+            "26": 33.74
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "25": 25.73
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ayşe",
+        "fiyat": {
+            "24": 20.9,
+            "25": 23.95,
+            "26": 200
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 29.86,
+            "25": 24.58,
+            "26": 38.9
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ayşe",
+        "yer": "İstanbul",
+        "fiyat": {
+            "24": 23.69,
+            "25": 34.76,
+            "26": 29.69
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 36.36,
+            "25": 20.22,
+            "26": 39.56
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "25": 22.78,
+            "26": 23.09
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 22.75,
+            "25": 25.99,
+            "26": 21.03
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "fiyat": {
+            "24": 37.02,
+            "25": 31.17,
+            "26": 38.66
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 30.41,
+            "26": 39.08
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 37.95,
+            "25": 24.62,
+            "26": 20.96
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 22.74,
+            "25": 21.92,
+            "26": 22.36
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 22.53,
+            "26": 28.5
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 21.02,
+            "25": 1,
+            "26": 22.62
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 20.4,
+            "25": 20.28,
+            "26": 39.16
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 39.3,
+            "25": 24.24,
+            "26": 39.66
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 37.52,
+            "25": 39.54,
+            "26": 21.86
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 39.67,
+            "25": 39.22,
+            "26": 33.17
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 28.64,
+            "25": 31.76,
+            "26": 200
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 38.5,
+            "26": 30.65
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "25": 34.15,
+            "26": 38.98
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 26.84,
+            "26": 200
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 28.02,
+            "25": 24.41,
+            "26": 36.08
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Zeynep",
+        "yer": "İzmir",
+        "fiyat": {
+            "24": 26.33,
+            "25": 22.82,
+            "26": 23.57
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "25": 22.27,
+            "26": 37.37
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 30.61,
+            "25": 36.47,
+            "26": 32.48
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 38.48,
+            "25": 22.78,
+            "26": 23.71
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 25.68,
+            "25": 38.94
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 23.28,
+            "25": 24.82,
+            "26": 37.17
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 36.42,
+            "25": 35.13,
+            "26": 35.02
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 39.84,
+            "25": 27.11,
+            "26": 22.27
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 37.28,
+            "25": 28.09,
+            "26": 37.46
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Ankara",
+        "fiyat": {
+            "24": 300,
+            "26": 30.37
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 22.87,
+            "25": 26.76,
+            "26": 31.51
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 28.76,
+            "26": 26.44
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "26": 28.56
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 29.88,
+            "25": 20.9,
+            "26": 20.18
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 28.65,
+            "25": 0,
+            "26": 36.24
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 1,
+            "25": 24.16,
+            "26": 30.28
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 33.07,
+            "25": 32.86,
+            "26": 29.91
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 20.86,
+            "25": 32.69,
+            "26": 32.96
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 36.15,
+            "25": 30.54,
+            "26": 36.98
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 32.13,
+            "25": 20.72,
+            "26": 36.02
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 23.88,
+            "25": 20.22,
+            "26": 22.64
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 24.92,
+            "25": 24.86,
+            "26": 32.71
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 34.5,
+            "25": 31.43
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Mehmet",
+        "fiyat": {
+            "24": 26.7,
+            "26": 21.7
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 25.21,
+            "25": 23.35,
+            "26": 27.9
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 36.07,
+            "25": 34.39,
+            "26": 35.57
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 20.88,
+            "25": 22.19
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "fiyat": {
+            "24": 33.79,
+            "25": 37.36,
+            "26": 28.48
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 23.72,
+            "25": 30.75,
+            "26": 25.32
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 26.26,
+            "25": 39.06,
+            "26": 25.5
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 32.08,
+            "25": 0,
+            "26": 25.06
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 22.98,
+            "25": 24.9,
+            "26": 29.88
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 22.99,
+            "25": 22.77,
+            "26": 29.68
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 38.12,
+            "25": 25.2,
+            "26": 23.42
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 35.1,
+            "25": 32.09,
+            "26": 26.17
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 23.72,
+            "25": 24.93,
+            "26": 26.17
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "25": 24.2,
+            "26": 21.06
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 25.93,
+            "25": 36.76,
+            "26": 34.43
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "25": 35.26,
+            "26": 21.6
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 23.93,
+            "25": 39.12
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ayşe",
+        "fiyat": {
+            "24": 20.13,
+            "25": 20.34,
+            "26": 32.56
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 39.05,
+            "25": 28.27,
+            "26": 26.83
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 31.55,
+            "25": 28.22,
+            "26": 34.72
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 37.31,
+            "25": 28.42,
+            "26": 30.54
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 30.17,
+            "25": 33.01,
+            "26": 38.84
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 35.45,
+            "25": 21.13,
+            "26": 24.0
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 29.16,
+            "25": 30.71,
+            "26": 37.85
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 39.95,
+            "25": 35.94,
+            "26": 20.19
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 39.65,
+            "25": 31.54,
+            "26": 26.33
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 31.62,
+            "25": 22.5,
+            "26": 33.86
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 26.43,
+            "26": 37.35
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 32.58,
+            "25": 34.62
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 35.96,
+            "25": 31.69
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 37.03,
+            "25": 28.21,
+            "26": 31.28
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 37.83,
+            "25": 1,
+            "26": 38.61
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 24.52,
+            "25": 25.88,
+            "26": 200
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 24.59,
+            "25": 34.2,
+            "26": 27.03
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 36.65,
+            "25": 30.52,
+            "26": 35.91
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 30.72,
+            "25": 1,
+            "26": 33.8
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 200,
+            "26": 37.85
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 38.62,
+            "25": 30.47,
+            "26": 1
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 23.54,
+            "25": 32.02,
+            "26": 28.77
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 38.16,
+            "25": 24.53,
+            "26": 20.9
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "25": 200,
+            "26": 33.63
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Mehmet",
+        "fiyat": {
+            "24": 30.6,
+            "25": 0,
+            "26": 33.86
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 36.37,
+            "25": 37.83,
+            "26": 300
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 32.85,
+            "25": 39.73,
+            "26": 27.88
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 39.18,
+            "25": 24.73,
+            "26": 31.54
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 37.27,
+            "25": 38.14,
+            "26": 29.26
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 21.99,
+            "25": 31.45,
+            "26": 32.63
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 22.37,
+            "25": 31.5,
+            "26": 23.38
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 21.02,
+            "25": 24.08,
+            "26": 28.84
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 39.49,
+            "26": 22.46
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 39.1,
+            "25": 26.28,
+            "26": 24.26
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 26.14,
+            "26": 24.67
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Zeynep",
+        "fiyat": {
+            "24": 33.49,
+            "25": 31.98,
+            "26": 37.98
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 39.6,
+            "25": 27.11,
+            "26": 25.3
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 24.25,
+            "26": 33.45
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 26.37,
+            "25": 28.1,
+            "26": 33.78
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 24.06,
+            "25": 29.02,
+            "26": 24.42
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 25.01,
+            "25": 39.88,
+            "26": 33.95
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 30.62,
+            "26": 39.32
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 29.92,
+            "25": 33.51,
+            "26": 29.77
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 24.96,
+            "26": 30.03
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Mehmet",
+        "fiyat": {
+            "24": 24.87,
+            "26": 30.64
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "25": 38.29,
+            "26": 28.37
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 20.39,
+            "26": 27.01
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "26": 39.87
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ayşe",
+        "fiyat": {
+            "24": 37.82,
+            "25": 35.41,
+            "26": 32.79
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 28.02,
+            "26": 26.68
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 30.37,
+            "26": 28.2
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 25.94,
+            "25": 35.69,
+            "26": 30.06
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 29.14,
+            "25": 22.2,
+            "26": 25.6
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "26": 25.44
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 20.97,
+            "25": 200
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 25.86,
+            "25": 36.61,
+            "26": 26.49
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 32.96,
+            "25": 20.54,
+            "26": 37.86
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 27.7,
+            "26": 27.22
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 0,
+            "25": 32.09,
+            "26": 38.18
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 34.89,
+            "25": 20.67,
+            "26": 34.64
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 25.07,
+            "25": 35.47,
+            "26": 1
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 39.54,
+            "25": 24.23,
+            "26": 20.34
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 31.89,
+            "25": 24.63,
+            "26": 300
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 39.64,
+            "25": 25.07,
+            "26": 35.84
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Zeynep",
+        "yer": "İstanbul",
+        "fiyat": {
+            "24": 25.41,
+            "25": 29.01,
+            "26": 20.35
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 24.59,
+            "25": 1,
+            "26": 21.63
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 22.99,
+            "25": 22.71,
+            "26": 33.97
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 30.44,
+            "25": 23.93,
+            "26": 27.71
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 28.34,
+            "26": 36.78
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 1,
+            "25": 22.45,
+            "26": 34.93
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 23.97,
+            "25": 26.99,
+            "26": 1
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 27.31,
+            "25": 30.77,
+            "26": 35.78
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 35.19,
+            "25": 31.1,
+            "26": 34.31
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "fiyat": {
+            "24": 35.9,
+            "25": 21.7,
+            "26": 27.38
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 29.05,
+            "26": 26.47
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 22.67,
+            "25": 31.29,
+            "26": 29.47
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 32.11,
+            "25": 39.36,
+            "26": 27.5
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 27.7,
+            "26": 24.01
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 32.33,
+            "25": 21.67,
+            "26": 30.24
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "25": 300,
+            "26": 21.67
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "25": 33.75,
+            "26": 28.66
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 27.27,
+            "25": 34.27,
+            "26": 25.41
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "fiyat": {
+            "24": 33.18,
+            "25": 200,
+            "26": 21.17
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 21.53,
+            "25": 39.8,
+            "26": 36.44
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 36.84,
+            "26": 33.33
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 20.96,
+            "25": 29.39,
+            "26": 39.73
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 20.78,
+            "25": 35.55,
+            "26": 28.62
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 26.01,
+            "25": 26.75,
+            "26": 36.99
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 38.93,
+            "25": 31.27,
+            "26": 30.2
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 39.1,
+            "25": 36.38
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Murat",
+        "fiyat": {
+            "24": 32.19,
+            "25": 36.89,
+            "26": 36.61
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 39.28,
+            "25": 0,
+            "26": 29.08
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 31.92,
+            "25": 21.62,
+            "26": 38.51
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 37.8,
+            "25": 38.29,
+            "26": 35.09
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "yer": "İzmir",
+        "fiyat": {
+            "24": 200,
+            "25": 24.65,
+            "26": 29.72
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Mehmet",
+        "yer": "Rize",
+        "fiyat": {
+            "25": 200,
+            "26": 200
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "İstanbul",
+        "fiyat": {
+            "24": 23.74,
+            "25": 36.79
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 23.62,
+            "25": 38.67,
+            "26": 30.29
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 31.44,
+            "25": 35.31,
+            "26": 28.65
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 36.19,
+            "25": 30.6,
+            "26": 24.01
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 24.13,
+            "26": 25.44
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 21.09,
+            "25": 26.23,
+            "26": 0
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "25": 30.06
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 21.94,
+            "25": 20.91,
+            "26": 20.29
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 27.76,
+            "25": 35.09,
+            "26": 39.61
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "fiyat": {
+            "24": 34.15,
+            "25": 200,
+            "26": 37.14
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Rize",
+        "fiyat": {
+            "24": 35.79,
+            "25": 31.27,
+            "26": 35.0
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 20.85,
+            "25": 21.29
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 28.13,
+            "25": 24.51,
+            "26": 23.62
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 23.16
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 33.14,
+            "25": 22.52,
+            "26": 21.3
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 37.93,
+            "25": 29.93,
+            "26": 200
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 29.21,
+            "25": 34.62,
+            "26": 26.69
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 22.51,
+            "26": 30.48
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Murat",
+        "fiyat": {
+            "24": 25.47,
+            "25": 20.92,
+            "26": 22.49
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 31.63,
+            "25": 22.85,
+            "26": 35.51
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 26.87,
+            "25": 22.9
+        }
+    },
+    {
+        "çeşit": null,
+        "yapan": "Usta Ayşe",
+        "yer": "İstanbul",
+        "fiyat": {
+            "24": 28.19,
+            "25": 34.86,
+            "26": 26.77
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 33.91,
+            "25": 20.78,
+            "26": 23.77
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 200,
+            "25": 20.81
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 32.48,
+            "25": 34.19
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 29.72,
+            "25": 24.55,
+            "26": 27.86
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 37.65,
+            "25": 31.81,
+            "26": 28.1
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 37.37,
+            "25": 1,
+            "26": 32.85
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": null,
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 29.95,
+            "25": 28.5,
+            "26": 36.79
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 35.06,
+            "25": 30.46,
+            "26": 38.97
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "25": 25.38
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Rize",
+        "fiyat": {
+            "25": 25.37,
+            "26": 31.84
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 27.08,
+            "25": 30.43
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 24.2,
+            "26": 23.64
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": null,
+            "25": 20.47,
+            "26": 20.03
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "fiyat": {
+            "24": 39.94,
+            "25": 33.65,
+            "26": 30.92
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 38.54,
+            "25": 300,
+            "26": 31.39
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "25": 30.6,
+            "26": 36.33
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 32.73,
+            "25": 33.74
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 20.37,
+            "25": 30.76,
+            "26": null
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 26.47,
+            "25": 24.89,
+            "26": 20.97
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 25.16,
+            "25": 25.82,
+            "26": 37.15
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 25.66,
+            "25": 30.4,
+            "26": 36.2
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 26.75,
+            "25": 36.24,
+            "26": 36.89
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 23.26,
+            "25": 28.49,
+            "26": 20.06
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "fiyat": {
+            "24": 20.9,
+            "25": 28.45,
+            "26": 28.95
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 30.34,
+            "25": 22.28,
+            "26": 23.67
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 31.72,
+            "25": 20.44,
+            "26": 23.07
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 25.03,
+            "25": 39.48,
+            "26": 25.69
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 22.62,
+            "26": 31.91
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "26": 29.35
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 24.26,
+            "25": 34.23
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ayşe",
+        "yer": "İzmir",
+        "fiyat": {
+            "24": 30.89,
+            "25": 39.18,
+            "26": 24.22
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 39.08,
+            "25": 22.94,
+            "26": 26.74
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 37.96,
+            "25": 38.52,
+            "26": 30.53
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 36.35,
+            "25": 34.86,
+            "26": 31.32
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 36.41,
+            "25": 36.07,
+            "26": 39.09
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 28.17,
+            "25": 32.17,
+            "26": 24.82
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 23.48,
+            "25": 31.87,
+            "26": 30.24
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 31.02,
+            "25": 39.94,
+            "26": 24.12
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 38.54,
+            "25": 35.83,
+            "26": 36.01
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 20.48,
+            "25": 34.36,
+            "26": 26.69
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 33.03,
+            "26": 35.06
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 38.0,
+            "25": 32.39,
+            "26": 33.07
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 25.06,
+            "26": 39.15
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Mehmet",
+        "yer": "Rize",
+        "fiyat": {
+            "24": 22.36,
+            "25": 20.99,
+            "26": 200
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "İzmir",
+        "fiyat": {
+            "24": 33.53,
+            "25": 35.39
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "25": 25.75,
+            "26": 21.94
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 22.97,
+            "25": 31.28,
+            "26": 35.78
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 200,
+            "26": 37.16
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 31.16,
+            "25": 31.49,
+            "26": 25.53
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 33.99,
+            "25": 28.21,
+            "26": 27.2
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 23.24,
+            "26": 30.99
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 20.1,
+            "25": 27.28,
+            "26": 200
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 21.87,
+            "25": 35.96,
+            "26": 22.2
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "26": 300
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 38.09,
+            "25": 28.18
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 25.32,
+            "25": 26.19,
+            "26": 30.01
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 32.68,
+            "25": 29.69,
+            "26": 21.35
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 22.88,
+            "25": 27.92,
+            "26": 30.21
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 24.97,
+            "25": 200,
+            "26": 32.22
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 32.19,
+            "25": 23.98,
+            "26": 29.55
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 33.99,
+            "25": 1,
+            "26": 39.36
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 39.86,
+            "25": 27.19,
+            "26": 31.8
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "25": 24.28,
+            "26": 21.95
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 30.72,
+            "25": 25.25,
+            "26": 31.48
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 0,
+            "25": 200,
+            "26": 20.27
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 24.98,
+            "25": 24.39,
+            "26": 20.16
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 39.15,
+            "25": 21.98,
+            "26": 32.17
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 20.63,
+            "25": 28.81,
+            "26": 31.24
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 29.3,
+            "25": 26.14,
+            "26": 24.79
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 28.33,
+            "25": 21.49,
+            "26": 33.45
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 27.65,
+            "26": 37.56
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 38.71,
+            "25": 27.5,
+            "26": 20.13
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Murat",
+        "yer": "Rize",
+        "fiyat": {
+            "24": 29.33,
+            "25": 37.94,
+            "26": 22.59
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 35.38,
+            "25": 37.11,
+            "26": 39.65
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ayşe",
+        "fiyat": {
+            "25": 24.12,
+            "26": 33.92
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 21.46,
+            "25": 34.85
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "25": 35.78
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 28.94,
+            "25": 29.41,
+            "26": 31.86
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "fiyat": {
+            "24": 33.29,
+            "25": 33.32,
+            "26": 34.6
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 38.55,
+            "26": 29.1
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 21.83,
+            "25": 27.39,
+            "26": 29.97
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "25": 32.14,
+            "26": 27.74
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 23.19,
+            "25": 31.54,
+            "26": 25.94
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 20.33,
+            "25": 32.62,
+            "26": 27.86
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 32.31,
+            "26": 22.3
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 22.08,
+            "25": 24.36,
+            "26": 26.41
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 31.02,
+            "25": 23.39,
+            "26": 38.29
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 34.2,
+            "25": 28.82
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 37.32,
+            "25": 21.69,
+            "26": 25.7
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "26": 33.22
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 34.3,
+            "25": 28.78,
+            "26": 20.31
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 25.6,
+            "25": 37.94,
+            "26": 22.59
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 28.92,
+            "25": 22.61,
+            "26": 1
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 22.05,
+            "25": 1,
+            "26": 29.91
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 20.63,
+            "25": 36.43,
+            "26": 32.26
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 23.63,
+            "25": 38.71,
+            "26": 34.25
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 35.41,
+            "25": 25.95,
+            "26": 34.45
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 32.5,
+            "25": 20.26,
+            "26": 33.56
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 24.0,
+            "25": 22.11,
+            "26": 29.56
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 39.64,
+            "25": 20.42,
+            "26": 24.72
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 28.23,
+            "25": 30.96,
+            "26": 34.07
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 28.2,
+            "25": 26.73,
+            "26": 27.03
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 21.17,
+            "26": 22.62
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 33.58,
+            "26": 24.26
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 29.53
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 22.46,
+            "25": 30.84,
+            "26": 26.92
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "25": 39.6,
+            "26": 36.26
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 25.61,
+            "26": 36.55
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 31.15,
+            "25": 28.05,
+            "26": 37.92
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 34.31,
+            "26": 300
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 38.21,
+            "25": 26.66,
+            "26": 29.43
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 23.66,
+            "25": 29.14,
+            "26": 29.92
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 26.96,
+            "26": 37.81
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 1,
+            "25": 31.66,
+            "26": 27.87
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Zeynep",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 30.83,
+            "25": 34.05,
+            "26": 22.68
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ali",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 30.8,
+            "25": 30.66,
+            "26": 27.68
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 34.64,
+            "25": 22.39,
+            "26": 37.17
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 32.2,
+            "25": 33.82,
+            "26": 26.55
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 31.14,
+            "25": 31.31,
+            "26": 36.93
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 36.2,
+            "26": 31.83
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 28.23,
+            "25": 30.92,
+            "26": 33.73
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 23.71,
+            "26": 35.67
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Zeynep",
+        "fiyat": {
+            "24": 38.94,
+            "25": 24.36,
+            "26": 29.25
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 35.9,
+            "26": 20.37
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "25": 23.98,
+            "26": 0
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 39.55,
+            "25": 36.79,
+            "26": 37.53
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 35.47,
+            "25": 28.98
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 34.16,
+            "25": 21.52,
+            "26": 31.57
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 27.41,
+            "25": 31.02,
+            "26": 27.76
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 32.39,
+            "25": 34.49,
+            "26": 37.74
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 32.99
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 32.69
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "25": 31.3,
+            "26": 23.51
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ayşe",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 31.18,
+            "25": 23.55,
+            "26": 34.48
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 23.43,
+            "25": 27.07,
+            "26": 29.12
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 28.69,
+            "25": 36.63,
+            "26": 36.37
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 24.59,
+            "26": 0
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 20.47,
+            "25": 37.07,
+            "26": 21.33
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Berlin",
+        "fiyat": {
+            "24": 20.68,
+            "25": 24.56,
+            "26": 33.23
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 25.6,
+            "25": 25.62,
+            "26": 29.45
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Murat",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 32.52,
+            "25": 30.54,
+            "26": 25.01
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 34.78,
+            "25": 300,
+            "26": 28.98
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 35.72,
+            "25": 21.22,
+            "26": 200
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Murat",
+        "yer": "İstanbul",
+        "fiyat": {
+            "24": 0,
+            "25": 35.51
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 20.58,
+            "25": 22.31,
+            "26": 36.33
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 21.52,
+            "25": 25.53,
+            "26": 31.23
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 20.6,
+            "26": 33.35
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 34.69,
+            "25": 21.64,
+            "26": 32.25
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 37.1,
+            "25": 200,
+            "26": 31.47
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 33.45,
+            "25": 21.62,
+            "26": 37.28
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 24.01,
+            "25": 38.54,
+            "26": 25.89
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 25.29,
+            "25": 31.67
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Murat",
+        "fiyat": {
+            "24": 36.65,
+            "25": 30.14,
+            "26": 28.04
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 29.43,
+            "25": 24.0,
+            "26": 38.19
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 38.09,
+            "25": 20.11
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 26.33,
+            "26": 31.5
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 36.31,
+            "25": 29.49,
+            "26": 34.79
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 31.37,
+            "25": 36.45,
+            "26": 33.9
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 29.44,
+            "25": 30.94
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 32.77
+        }
+    },
+    {
+        "çeşit": "Kazandibi",
+        "yapan": "Usta Ayşe",
+        "fiyat": {
+            "24": 20.01,
+            "25": 21.81,
+            "26": 31.23
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 36.45,
+            "25": 36.83
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "fiyat": {
+            "24": 38.64,
+            "25": 20.33,
+            "26": 37.74
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Mehmet",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 0,
+            "25": 21.33,
+            "26": 39.6
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 39.85,
+            "25": 38.85,
+            "26": 21.71
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Mehmet",
+        "fiyat": {
+            "24": 34.95,
+            "25": 27.1,
+            "26": 30.61
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 37.94,
+            "25": 29.22,
+            "26": 39.95
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 200,
+            "25": 26.14
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 31.37,
+            "25": 26.8,
+            "26": 23.2
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 39.72,
+            "25": 1,
+            "26": 23.89
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 21.89,
+            "25": 21.15,
+            "26": 36.73
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 33.94,
+            "26": 27.86
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 23.16,
+            "25": 23.58,
+            "26": 26.19
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 38.08,
+            "25": 200,
+            "26": 22.23
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ayşe",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 24.65,
+            "25": 37.74
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Murat",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 32.15,
+            "25": 35.08,
+            "26": 29.29
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 34.7,
+            "25": 20.39,
+            "26": 28.15
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 23.15,
+            "25": 32.47,
+            "26": 24.63
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 39.81,
+            "25": 34.53,
+            "26": 26.54
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Zeynep",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 30.5,
+            "25": 27.06,
+            "26": 26.96
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Zeynep",
+        "yer": "Ankara",
+        "fiyat": {
+            "24": 20.51,
+            "25": 29.2,
+            "26": 34.83
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Mehmet",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 26.76,
+            "25": 37.5
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 35.89,
+            "25": 25.57,
+            "26": 21.26
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "25": 37.81,
+            "26": 29.24
+        }
+    },
+    {
+        "çeşit": "Tulumba",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 23.18,
+            "25": 31.89,
+            "26": 23.83
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 28.22,
+            "25": 33.12,
+            "26": 34.38
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 39.52,
+            "25": 34.35,
+            "26": 35.41
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 27.07,
+            "25": 30.34,
+            "26": 31.28
+        }
+    },
+    {
+        "çeşit": "Künefe",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 31.1,
+            "25": 26.84,
+            "26": 300
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Zeynep",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 24.11,
+            "25": 20.78,
+            "26": 28.95
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Ali",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 34.84,
+            "25": 29.06,
+            "26": 20.69
+        }
+    },
+    {
+        "çeşit": "Kadayıf",
+        "yapan": "Usta Murat",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 29.27,
+            "26": 20.59
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Murat",
+        "yer": "İstanbul",
+        "fiyat": {
+            "24": 21.59,
+            "25": 23.78,
+            "26": 36.73
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 23.16,
+            "25": 34.18,
+            "26": 27.21
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ali",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 38.27,
+            "25": 26.14,
+            "26": 39.15
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Mehmet",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 32.06,
+            "25": 21.69
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Mehmet",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 31.15,
+            "25": 29.12,
+            "26": 29.25
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 33.69,
+            "25": 31.52,
+            "26": 37.38
+        }
+    },
+    {
+        "çeşit": "Sütlaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Diyarbakır",
+        "fiyat": {
+            "24": 22.83,
+            "25": 34.94,
+            "26": 38.22
+        }
+    },
+    {
+        "çeşit": "Fıstıklı Sarma",
+        "yapan": "Usta Murat",
+        "yer": "Elazığ",
+        "fiyat": {
+            "24": 21.06,
+            "25": 26.33
+        }
+    },
+    {
+        "çeşit": "Şöbiyet",
+        "yapan": "Usta Murat",
+        "yer": "Adana",
+        "fiyat": {
+            "24": 25.54,
+            "25": 26.59
+        }
+    },
+    {
+        "çeşit": "Revani",
+        "yapan": "Usta Zeynep",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 39.95,
+            "25": 26.8,
+            "26": 29.15
+        }
+    },
+    {
+        "çeşit": "Aşure",
+        "yapan": "Usta Ayşe",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 32.38,
+            "25": 33.33,
+            "26": 34.01
+        }
+    },
+    {
+        "çeşit": "Baklava",
+        "yapan": "Usta Ali",
+        "yer": "Malatya",
+        "fiyat": {
+            "24": 27.45,
+            "25": 1,
+            "26": 25.52
+        }
+    },
+    {
+        "çeşit": "Güllaç",
+        "yapan": "Usta Ayşe",
+        "yer": "Tunceli",
+        "fiyat": {
+            "24": 35.28,
+            "25": 23.15,
+            "26": 30.72
+        }
+    }
+]
